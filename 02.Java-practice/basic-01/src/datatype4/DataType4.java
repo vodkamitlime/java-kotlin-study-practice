@@ -17,6 +17,10 @@ public class DataType4 {
 
 /**
  * boolean: 1 byte 사용 true/false
- * 
- * 
  */
+
+/**
+ * 기본 자료형: int, long, float ....
+ * 참조 자료형: String, Date, Student (class) ... 
+ * -> String 은 예외로 생성하지 않고 사용 가능 
+*/
